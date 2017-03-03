@@ -1,3 +1,3 @@
 # ghbf
 ==========
-github first
+*github first
